@@ -1,0 +1,10 @@
+{
+    "SourceFolder": "C:\\Program Files (x86)\\Brunswick\\Sync\\SyncInstall\\Content\\ScoringMaterials",
+    "FilesToBackup": [
+        "SocialFeed.txt",
+        "TextEffects.txt"
+    ],
+    "MaxBackupVersions": 3,
+    "BackupFolderName": "Backup",
+    "LogFileName": "SyncBackupRestore.log"
+}
